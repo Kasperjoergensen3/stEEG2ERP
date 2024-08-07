@@ -1,0 +1,16 @@
+{
+  "0": "ERN/Incorrect",
+  "1": "ERN/Correct",
+  "2": "LRP/Contralateral",
+  "3": "LRP/Ipsilateral",
+  "4": "MMN/Deviants",
+  "5": "MMN/Standards",
+  "6": "N2pc/Contralateral",
+  "7": "N2pc/Ipsilateral",
+  "8": "N170/Faces",
+  "9": "N170/Cars",
+  "10": "N400/Unrelated",
+  "11": "N400/Related",
+  "12": "P3/Rare",
+  "13": "P3/Frequent"
+}
