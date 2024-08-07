@@ -1,5 +1,5 @@
 # stEEG2ERP: Learning the Event-Related Potential from Single-Trial Electroencephalography Signals
-The code is build on top of the code base given in the [CSLP-AE repository](https://github.com/andersxa/CSLP-AE/blob/main/readme.md).
+The code is build on top of the code base given in the [CSLP-AE repository](https://github.com/andersxa/CSLP-AE/blob/main/readme.md). I AM STILL WORKING ON CLEANING UP THE CODE, SO EVERYTHING MIGHT NOT WORK YET.
 
 
 ## Installation
